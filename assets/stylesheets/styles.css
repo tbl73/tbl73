@@ -1,0 +1,75 @@
+#top-of-page {
+	border:5px solid blue;
+	margin:20px auto;
+	background-color: skyblue;
+	padding-bottom: 15px;
+}
+
+.mtop-20 {
+	margin:20px;
+}
+
+.content {
+	padding:30px 80px;
+}
+
+.centered{
+	text-align: center;
+}
+
+.mbottom_30 {
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+h3 {
+	color: #DF0174;
+	text-align: center;
+}
+
+.about_me {
+text-align:center;
+color:#DF0174;
+margin:30px;
+
+}
+
+
+
+
+/*body {
+	/*background-color: #81F7F3;
+	font-family: Helvetica, sans-serif;
+	color: #0000FF;
+
+}
+
+
+
+.transbox {
+	background: rgba(255, 255, 255, 0.5);
+}
+
+#bgpicture{
+	background: url("../images/cliffs_bg.jpg") no-repeat center center fixed;
+	background-size:cover;
+}
+
+h1 {
+	color: #6A0888;
+	text-align: center;
+}
+
+h2 {
+	color:#0B3B17;
+	text-align: center;
+}
+
+
+.colors {
+	color: #0B3B17;
+}
+
+
+
+*/
